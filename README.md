@@ -146,7 +146,8 @@ The goal was to make the analysis easier to explore rather than simply presentin
 # 4. Workforce Analysis
 
 <p align="center">
-  <img src="assets/headcount-by-department.png" alt="Employee Distribution by Department" width="850"/>
+<img width="450" height="320" alt="Workforce Analysis" src="https://github.com/user-attachments/assets/9c8af76a-c562-41bc-8590-1f09b216ef0d" />
+
 </p>
 
 ### Employee Distribution
@@ -164,7 +165,8 @@ This helps identify where most of the workforce is concentrated and provides con
 ### Gender Distribution
 
 <p align="center">
-  <img src="assets/gender-distribution.png" alt="Gender Distribution" width="650"/>
+<img width="448" height="232" alt="Gender Distribution" src="https://github.com/user-attachments/assets/200a4205-475d-4896-b135-faa518b40084" />
+
 </p>
 
 The workforce consists of:
@@ -179,7 +181,8 @@ The same analysis can be explored across departments to understand workforce com
 # 5. Compensation Analysis
 
 <p align="center">
-  <img src="assets/salary-by-department.png" alt="Average Salary by Department" width="850"/>
+<img width="781" height="112" alt="Salary Overview" src="https://github.com/user-attachments/assets/d4fd5c31-f954-491e-8793-0b0e6e8632f2" />
+
 </p>
 
 ### Salary Overview
@@ -195,7 +198,9 @@ Department-level comparisons provide more useful context than relying only on th
 ### Experience vs Salary
 
 <p align="center">
-  <img src="assets/experience-vs-salary.png" alt="Experience versus Salary" width="800"/>
+<img width="752" height="306" alt="Experience vs Salary (2)" src="https://github.com/user-attachments/assets/4f0d6e5a-5daf-4c56-8db2-7f0fe61580f6" />
+
+
 </p>
 
 The relationship between years of experience and monthly salary is weak in this dataset, with a correlation of approximately **-0.04**.
@@ -211,7 +216,8 @@ This was one of the key analytical areas of the project.
 ## Sick Leave Analysis
 
 <p align="center">
-  <img src="assets/sick-leaves-by-department.png" alt="Sick Leaves by Department" width="850"/>
+  <img width="1245" height="117" alt="Sick Leave Analysis" src="https://github.com/user-attachments/assets/f48a22ba-420c-4fa6-9106-aaa75aaf42d9" />
+
 </p>
 
 The dataset contains:
@@ -232,7 +238,8 @@ Differences between departments can therefore be used as a starting point for fu
 ## Overtime Analysis
 
 <p align="center">
-  <img src="assets/overtime-distribution.png" alt="Overtime Hours Distribution" width="850"/>
+  <img width="437" height="316" alt="Overtime Analysis" src="https://github.com/user-attachments/assets/d23fae83-6090-4371-aa06-9506e32865ce" />
+
 </p>
 
 Across the dataset:
@@ -347,19 +354,21 @@ These limitations define where further analysis could be added.
 ### Workforce Overview
 
 <p align="center">
-  <img src="assets/dashboard-overview.png" alt="Workforce Overview Dashboard" width="900"/>
+<img width="1491" height="691" alt="HR Overview" src="https://github.com/user-attachments/assets/cb5aa893-3c70-4ffd-8721-ee89bf41db57" />
+
 </p>
 
 ### Compensation Analysis
 
 <p align="center">
-  <img src="assets/compensation-analysis.png" alt="Compensation Analysis Dashboard" width="900"/>
+<img width="1492" height="691" alt="Compensation" src="https://github.com/user-attachments/assets/a8d7fe1d-a7c7-4274-ba8f-f36b1eedf417" />
 </p>
 
 ### Attendance & Overtime
 
 <p align="center">
-  <img src="assets/attendance-analysis.png" alt="Attendance and Overtime Dashboard" width="900"/>
+<img width="1491" height="690" alt="Attendance" src="https://github.com/user-attachments/assets/819fd879-1672-4248-bb50-97357ba8a3ba" />
+
 </p>
 
 The dashboard uses interactive navigation and filtering to allow users to move between analytical areas without manually searching through worksheets.
