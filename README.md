@@ -3,9 +3,9 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
-
-</p>
 ![image alt] (https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/HR%20Overview.png)
+</p>
+
 ## Project Overview
 
 Employee data can tell a much bigger story than simple headcount and salary totals.
