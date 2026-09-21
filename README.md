@@ -3,12 +3,9 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
-  ![image alt](https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/HR%20Overview.png)
-  <!--
-  <img src=["F:\power bi\Git\scr\HR Overview.png"]([https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/HR%20Overview.png](https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/622fbf368d26d902a5269b191c21e8514a9cff85/scr/HR%20Overview.png)) alt="HR Workforce Dashboard Overview" width="900"/>
-  -->
-</p>
 
+</p>
+![image alt] (https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/HR%20Overview.png)
 ## Project Overview
 
 Employee data can tell a much bigger story than simple headcount and salary totals.
