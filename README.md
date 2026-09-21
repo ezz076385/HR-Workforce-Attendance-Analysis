@@ -3,7 +3,12 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
+<<<<<<< HEAD
   <img src="F:\power bi\Git\scr\HR Overview.png" alt="HR Workforce Dashboard Overview" width="900"/>
+=======
+<img width="1491" height="691" alt="HR Overview" src="https://github.com/user-attachments/assets/df89aab6-2073-42f6-8421-daef3192a7f7" />
+
+>>>>>>> cef5c255b36dc2ca1f8e2862546782d3d32ba826
 </p>
 
 ## Project Overview
