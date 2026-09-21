@@ -3,7 +3,8 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
-![HR-Workforce](https://raw.githubusercontent.com/ezz076385/HR-Workforce-Attendance-Analysis/Master/src/HR%20Overview.png)
+<img width="1491" height="691" alt="HR Overview" src="https://github.com/user-attachments/assets/df89aab6-2073-42f6-8421-daef3192a7f7" />
+
 </p>
 
 ## Project Overview
