@@ -146,7 +146,7 @@ The goal was to make the analysis easier to explore rather than simply presentin
 # 4. Workforce Analysis
 
 <p align="center">
-  <img src="assets/headcount-by-department.png" alt="Employee Distribution by Department" width="850"/>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Workforce%20Analysis.png
 </p>
 
 ### Employee Distribution
@@ -164,7 +164,7 @@ This helps identify where most of the workforce is concentrated and provides con
 ### Gender Distribution
 
 <p align="center">
-  <img src="assets/gender-distribution.png" alt="Gender Distribution" width="650"/>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Gender%20Distribution.png
 </p>
 
 The workforce consists of:
@@ -179,7 +179,7 @@ The same analysis can be explored across departments to understand workforce com
 # 5. Compensation Analysis
 
 <p align="center">
-  <img src="assets/salary-by-department.png" alt="Average Salary by Department" width="850"/>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Compensation.png
 </p>
 
 ### Salary Overview
@@ -195,7 +195,7 @@ Department-level comparisons provide more useful context than relying only on th
 ### Experience vs Salary
 
 <p align="center">
-  <img src="assets/experience-vs-salary.png" alt="Experience versus Salary" width="800"/>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Experience%20vs%20Salary%20(2).png
 </p>
 
 The relationship between years of experience and monthly salary is weak in this dataset, with a correlation of approximately **-0.04**.
@@ -211,7 +211,7 @@ This was one of the key analytical areas of the project.
 ## Sick Leave Analysis
 
 <p align="center">
-  <img src="assets/sick-leaves-by-department.png" alt="Sick Leaves by Department" width="850"/>
+ https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Sick%20Leave%20Analysis.png
 </p>
 
 The dataset contains:
@@ -232,7 +232,7 @@ Differences between departments can therefore be used as a starting point for fu
 ## Overtime Analysis
 
 <p align="center">
-  <img src="assets/overtime-distribution.png" alt="Overtime Hours Distribution" width="850"/>
+  https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Overtime%20Analysis.png
 </p>
 
 Across the dataset:
@@ -347,19 +347,18 @@ These limitations define where further analysis could be added.
 ### Workforce Overview
 
 <p align="center">
-  <img src="assets/dashboard-overview.png" alt="Workforce Overview Dashboard" width="900"/>
+ https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Workforce%20Analysis.png
 </p>
 
 ### Compensation Analysis
 
 <p align="center">
-  <img src="assets/compensation-analysis.png" alt="Compensation Analysis Dashboard" width="900"/>
-</p>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Compensation.png
 
 ### Attendance & Overtime
 
 <p align="center">
-  <img src="assets/attendance-analysis.png" alt="Attendance and Overtime Dashboard" width="900"/>
+https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/Attendance.png
 </p>
 
 The dashboard uses interactive navigation and filtering to allow users to move between analytical areas without manually searching through worksheets.
