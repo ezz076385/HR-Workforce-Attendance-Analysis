@@ -3,7 +3,7 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
-<img src="./src/HR%20Overview.png" alt="HR Workforce Dashboard" width="900">
+  ![HR-Workforce](./src/HR%20Overview.png)
 </p>
 
 ## Project Overview
