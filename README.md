@@ -3,7 +3,10 @@
 > Turning employee data into actionable workforce insights for better HR decision-making.
 
 <p align="center">
+  ![HR Workforce Dashboard Overview](https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/622fbf368d26d902a5269b191c21e8514a9cff85/scr/HR%20Overview.png)
+  <!--
   <img src=["F:\power bi\Git\scr\HR Overview.png"]([https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/Master/scr/HR%20Overview.png](https://github.com/ezz076385/HR-Workforce-Attendance-Analysis/blob/622fbf368d26d902a5269b191c21e8514a9cff85/scr/HR%20Overview.png)) alt="HR Workforce Dashboard Overview" width="900"/>
+  -->
 </p>
 
 ## Project Overview
